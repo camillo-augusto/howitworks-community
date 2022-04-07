@@ -3,5 +3,7 @@
   "livePreview": true,
   "attachmentFolderPath": "./attachments",
   "newFileLocation": "current",
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true
 }
