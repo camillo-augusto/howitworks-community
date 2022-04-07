@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/camillo-augusto/howitworks
 [page 2]
 
 [Page 2](https://camillo-augusto.github.io/howitworks-community/page2)
-[Jekyll](https://jekyllrb.com/)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
