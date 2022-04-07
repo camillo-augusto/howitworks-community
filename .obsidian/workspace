@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "page 2.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "page 2.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "ed174d31e1e45cf2",
   "lastOpenFiles": [
-    "page 2.md",
     "index.md",
+    "page 2.md",
     "Untitled.md"
   ]
 }
