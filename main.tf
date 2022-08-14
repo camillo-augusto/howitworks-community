@@ -4,6 +4,7 @@ provider "google" {
     zone = "europe-west2-a"
 }
 
+
 terraform {
   backend "gcs" {
     bucket  = "camilloaugusto-terraform"
